@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFrameAndroid.iml" filepath="$PROJECT_DIR$/MyFrameAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frameapi/frameapi.iml" filepath="$PROJECT_DIR$/frameapi/frameapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framecore/framecore.iml" filepath="$PROJECT_DIR$/framecore/framecore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymodel/mymodel.iml" filepath="$PROJECT_DIR$/mymodel/mymodel.iml" />
+    </modules>
+  </component>
+</project>
