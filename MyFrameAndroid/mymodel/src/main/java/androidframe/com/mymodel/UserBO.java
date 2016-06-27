@@ -12,4 +12,5 @@ public class UserBO implements Serializable
     private int               mUserID;
     private String            mUserName;
     private int               mUserAge;
+    private int               mUserSex;
 }
